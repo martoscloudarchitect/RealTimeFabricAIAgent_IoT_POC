@@ -1,7 +1,7 @@
 azure-iot-device 
 gpiozero
 bme280
-gpiozero-pins
-#smbus2 
-#RPi.GPIO 
-#tkinter
+pandas
+python-dotenv
+uuid
+datetime
